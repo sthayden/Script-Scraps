@@ -1,0 +1,1 @@
+@powershell -NoProfile -ExecutionPolicy unrestricted C:\Tools\ChangeProdId.ps1

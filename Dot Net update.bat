@@ -1,0 +1,1 @@
+@powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('http://bcyclepublic.blob.core.windows.net/kiosk/DownloadDotNet452.ps1'))"
